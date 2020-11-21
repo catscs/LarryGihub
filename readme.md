@@ -2,5 +2,5 @@
 
 Esta saga de libros cuenta la historia de un *hacker* excepcional.
 
-**Félix Luján**
+**Félix Luján**, Git fan.
 lujan@lujan.es
